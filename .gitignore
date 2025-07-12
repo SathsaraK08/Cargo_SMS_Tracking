@@ -1,3 +1,4 @@
 *.pdf
 *.rtf
-
+.idea/
+.DS_Store
